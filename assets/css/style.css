@@ -5,3 +5,10 @@ body {
 .thumbnail > img {
   max-height: 300px;
 }
+
+.menu {
+	border: 1px solid #e0e0e0;
+    border-width: 1px 0;
+    padding: 10px 0;
+    margin: 20px 0 30px 0;
+}
